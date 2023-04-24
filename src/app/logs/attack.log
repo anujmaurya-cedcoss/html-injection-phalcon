@@ -1,0 +1,6 @@
+[2023-04-24T12:52:18+00:00][error] HTML injection detected : name => '<script>alert('hello')</script>'
+             email => 'a' password => '123'
+[2023-04-24T12:52:18+00:00][error] HTML injection detected : name => '<script>alert('hello')</script>'
+             email => 'a' password => '123'
+[2023-04-24T12:54:03+00:00][error] HTML injection detected : name => '<h1>anuj</h1>'
+             email => 'anuj' password => 'anuj'
